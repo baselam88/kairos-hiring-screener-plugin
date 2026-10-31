@@ -1,0 +1,17 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "author": {
+    "name": "KAIROS AI Systems"
+  },
+  "description": "Writes a structured job post and a first-pass resume screening rubric that cuts screening time (labelled estimate 50-70%).",
+  "keywords": [
+    "hiring",
+    "kairos",
+    "screener",
+    "small business"
+  ],
+  "license": "MIT",
+  "name": "kairos-hiring-screener",
+  "repository": "https://github.com/baselam88/kairos-hiring-screener-plugin",
+  "version": "0.1.0"
+}
